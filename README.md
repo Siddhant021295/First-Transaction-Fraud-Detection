@@ -1,4 +1,4 @@
-# First-Transaction-Fraud-Detection
+# First-Transaction-Fraud-Detection with Sklearn
 First Transaction Fraud Detection
 
 ### High-level problem statement
@@ -14,3 +14,6 @@ Please use a Python 3.7+ environment with the following packages:
 - scikit-learn==0.24.2 
 - numpy==1.17.4 
 - matplotlib==3.1.1
+
+### Dataset Description
+![image](https://user-images.githubusercontent.com/22122136/147963094-39f1d3f4-2946-4201-84a4-abaf437a6c3f.png)
